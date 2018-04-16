@@ -1,0 +1,68 @@
+* {
+  font-family: 'Slabo 27px', serif;
+}
+
+body{
+  background-color: white;
+  margin: auto;
+  width: 960px;
+}
+
+header{
+  background-color: white;
+}
+
+nav{
+  float: right;
+  margin-bottom: 10px;
+  margin-right:40px;
+}
+
+p {
+  font-style: normal;
+  font-size: 15px;
+  text-indent: 10px
+}
+
+h1{
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+}
+
+h2{
+  margin-top: 20px;
+  margin-left: 10px;
+
+}
+
+h3{
+  font-size: 0px;
+  font-weight: bold;
+  vertical-align: top;
+}
+
+h4{
+  display: inline;
+}
+
+h2 + h4 {
+  margin-left: 0px;
+  
+}
+
+p{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+ul{
+  background-image: url("img/list-bg.png");
+  column-count: 2;
+  line-height: 30px;
+  list-style-position: inside;
+  margin-bottom: 20px;
+
+}
+
+
